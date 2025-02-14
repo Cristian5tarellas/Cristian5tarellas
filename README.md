@@ -34,7 +34,6 @@ This section showcases my growing interest in Cybersecurity, a fascinating field
   While theory is important when learning a new topic, hands-on practice is essential.  
   This repository contains solutions and walkthroughs for various Wargames from OverTheWire and other sources.  
   Some challenges focus on specific security issues, while others cover broader topics, but all provide valuable learning experiences.  
-  I encourage you to try solving them on your own first, but if you need guidance, I provide step-by-step explanations.  
   </p>  
 
 - **📜 [Scripts](/Cristian5tarellas/Scripts):**  
