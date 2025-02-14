@@ -23,22 +23,6 @@ Currently, I am expanding my skill set with a <strong>Master’s in Cybersecurit
 </p>
 
 ## $ git remote
-### **🔐 Cybersecurity Repositories**  
-This section showcases my growing interest in **Cybersecurity**, a fascinating field where I learn something new every day.  
-
-- ### **🕵️‍♂️ [Wargames](https://github.com/Cristian5tarellas/Wargames):**  
-  <p align="justify">
-  While theory is important when learning a new topic, hands-on practice is essential.  
-  This repository contains <strong>solutions and walkthroughs</strong> for various <strong>Wargames</strong> from <a href="https://overthewire.org/wargames/">OverTheWire</a>.  
-  Some challenges focus on specific security issues, while others cover broader topics, but all provide valuable learning experiences.  
-  </p>  
-
-- ### **📜 [Scripts](https://github.com/Cristian5tarellas/Scripts):**  
-  <p align="justify">
-  This repository contains <strong>scripts</strong> I’ve created while solving Wargames and studying Cybersecurity.  
-  Most scripts are written in <strong>Python and Bash</strong>, covering areas such as <strong>brute force attacks, cryptography, spoofing, and sniffing</strong>.  
-  These tools help automate tasks and enhance my understanding of security concepts through practical application.  
-  </p>  
 
 ### **📊 Data Science Repositories**  
 My passion for <strong>Science</strong> and <strong>Data Science</strong> is reflected in the following repositories:  
@@ -57,3 +41,20 @@ My passion for <strong>Science</strong> and <strong>Data Science</strong> is ref
   My journey started in the field of <strong>Quantum Physics and Nanostructures</strong>, but during my Master’s in Complex Systems, I became deeply fascinated by <strong>Neuroscience</strong>. Throughout my Master’s and PhD, I worked in Computational Neuroscience, focusing on electrophysiological recordings and computational models of biological neuronal circuits in the Hippocampus.  
   My research included both in vitro and in vivo electrophysiological experiments. Following my PhD, I pursued a Postdoc where I specialized in Recurrent Neural Networks (RNNs), deep learning applications, and analyzing animal behavior in decision-making tasks.  
   </p>
+
+### **🔐 Cybersecurity Repositories**  
+This section showcases my growing interest in **Cybersecurity**, a fascinating field where I learn something new every day.  
+
+- ### **🕵️‍♂️ [Wargames](https://github.com/Cristian5tarellas/Wargames):**  
+  <p align="justify">
+  While theory is important when learning a new topic, hands-on practice is essential.  
+  This repository contains <strong>solutions and walkthroughs</strong> for various <strong>Wargames</strong> from <a href="https://overthewire.org/wargames/">OverTheWire</a>.  
+  Some challenges focus on specific security issues, while others cover broader topics, but all provide valuable learning experiences.  
+  </p>  
+
+- ### **📜 [Scripts](https://github.com/Cristian5tarellas/Scripts):**  
+  <p align="justify">
+  This repository contains <strong>scripts</strong> I’ve created while solving Wargames and studying Cybersecurity.  
+  Most scripts are written in <strong>Python and Bash</strong>, covering areas such as <strong>brute force attacks, cryptography, spoofing, and sniffing</strong>.  
+  These tools help automate tasks and enhance my understanding of security concepts through practical application.  
+  </p>  
