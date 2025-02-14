@@ -11,6 +11,7 @@ My goal is to apply my analytical mindset and technical skills to drive innovati
 
 ## $ whoami
 <p align=justify>
+
 🧠 **Physicist with a PhD in Computational Neuroscience** – Passionate about data-driven problem-solving and cutting-edge technology.
 
 📊 **3+ years of postdoctoral research experience** – Specialized in big data analysis, machine learning, and neural network modeling.
