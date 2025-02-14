@@ -29,14 +29,14 @@ My goal is to apply my analytical mindset and technical skills to drive innovati
 ### **🔐 Cybersecurity Repositories**  
 This section showcases my growing interest in **Cybersecurity**, a fascinating field where I learn something new every day.  
 
-- **🕵️‍♂️ [Wargames](/Wargames):**  
+- **🕵️‍♂️ [Wargames](https://github.com/Cristian5tarellas/Wargames):**  
   <p align="justify">
   While theory is important when learning a new topic, hands-on practice is essential.  
   This repository contains <strong>solutions and walkthroughs</strong> for various <strong>Wargames</strong> from <a href="https://overthewire.org/wargames/">OverTheWire</a>.  
   Some challenges focus on specific security issues, while others cover broader topics, but all provide valuable learning experiences.  
   </p>  
 
-- **📜 [Scripts](/Scripts):**  
+- **📜 [Scripts](https://github.com/Cristian5tarellas/Scripts):**  
   <p align="justify">
   This repository contains <strong>scripts</strong> I’ve created while solving Wargames and studying Cybersecurity.  
   Most scripts are written in <strong>Python and Bash</strong>, covering areas such as <strong>brute force attacks, cryptography, spoofing, and sniffing</strong>.  
@@ -46,14 +46,14 @@ This section showcases my growing interest in **Cybersecurity**, a fascinating f
 ### **📊 Data Science Repositories**  
 My passion for <strong>Science</strong> and <strong>Data Science</strong> is reflected in the following repositories:  
 
-- **📈 [Data Science Projects](/Data_Science_Projects)**  
+- **📈 [Data Science Projects](https://github.com/Cristian5tarellas/Data_Science_Projects)**  
   <p align="justify">
   This repository features various <strong>Data Science projects</strong>, each with a <strong>Jupyter Notebook explaining my methodology</strong>.  
   I detail how I approach data analysis, structure my workflow, and ensure robust and reproducible results.  
   Additionally, I provide more <strong>refined scripts for automated and professional analysis</strong>, making the projects adaptable for <strong>real-world applications</strong>.  
   </p>  
 
-- **🔬 [Science](/Science):**  
+- **🔬 [Science](https://github.com/Cristian5tarellas/Science):**  
   <p align="justify">
   A collection of my <strong>academic publications</strong> and research projects [📚].
 
