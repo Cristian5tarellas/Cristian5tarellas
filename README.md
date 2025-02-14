@@ -2,11 +2,8 @@
 ![Hello](Banner.jpg)
 
 <p align=justify>
-With a PhD in Physics and a strong background in computational modeling, machine learning, and data analysis, I thrive on transforming complex data into actionable insights. 
-My expertise spans Python, deep learning, and time-series analysis, honed through years of research in neuroscience and dynamical systems. 
-Naturally curious and highly adaptable, I am always eager to learn and explore new challenges. 
-Currently, I am expanding my skill set with a Master’s in Cybersecurity, specializing in Pentesting. 
-My goal is to apply my analytical mindset and technical skills to drive innovation in industry.
+With a <strong>PhD in Physics</strong> and a strong background in <strong>computational modeling, machine learning, and data analysis</strong>, I thrive on transforming complex data into actionable insights. My expertise spans <strong>Python, deep learning, and time-series analysis</strong>, honed through years of research in <strong>neuroscience and dynamical systems</strong>. Naturally curious and highly adaptable, I am always eager to learn and explore new challenges.  
+Currently, I am expanding my skill set with a <strong>Master’s in Cybersecurity</strong>, specializing in <strong>Pentesting</strong>. My goal is to apply my <strong>analytical mindset</strong> and <strong>technical skills</strong> to drive innovation in industry.
 </p>
 
 ## $ whoami
