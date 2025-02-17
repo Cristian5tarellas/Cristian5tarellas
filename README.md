@@ -35,7 +35,11 @@ My passion for <strong>Science</strong> and <strong>Data Science</strong> is ref
   </p>  
 
 - ### **🔬 [Science](https://github.com/Cristian5tarellas/Science):**  
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> 75c248d612f0afdf97f00e1e2c5488cfc98d3701
   A collection of my <strong>academic publications</strong> and research projects [📚].
   <p align="justify">
   My journey started in the field of <strong>Quantum Physics and Nanostructures</strong>, but during my Master’s in Complex Systems, I became deeply fascinated by <strong>Neuroscience</strong>. Throughout my Master’s and PhD, I worked in Computational Neuroscience, focusing on electrophysiological recordings and computational models of biological neuronal circuits in the Hippocampus. My research included both in vitro and in vivo electrophysiological experiments. Following my PhD, I pursued a Postdoc where I specialized in Recurrent Neural Networks (RNNs), deep learning applications, and analyzing animal behavior in decision-making tasks.  
