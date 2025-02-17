@@ -38,8 +38,7 @@ My passion for <strong>Science</strong> and <strong>Data Science</strong> is ref
   <p align="justify">
   A collection of my <strong>academic publications</strong> and research projects [📚].
 
-  My journey started in the field of <strong>Quantum Physics and Nanostructures</strong>, but during my Master’s in Complex Systems, I became deeply fascinated by <strong>Neuroscience</strong>. Throughout my Master’s and PhD, I worked in Computational Neuroscience, focusing on electrophysiological recordings and computational models of biological neuronal circuits in the Hippocampus.  
-  My research included both in vitro and in vivo electrophysiological experiments. Following my PhD, I pursued a Postdoc where I specialized in Recurrent Neural Networks (RNNs), deep learning applications, and analyzing animal behavior in decision-making tasks.  
+  My journey started in the field of <strong>Quantum Physics and Nanostructures</strong>, but during my Master’s in Complex Systems, I became deeply fascinated by <strong>Neuroscience</strong>. Throughout my Master’s and PhD, I worked in Computational Neuroscience, focusing on electrophysiological recordings and computational models of biological neuronal circuits in the Hippocampus. My research included both in vitro and in vivo electrophysiological experiments. Following my PhD, I pursued a Postdoc where I specialized in Recurrent Neural Networks (RNNs), deep learning applications, and analyzing animal behavior in decision-making tasks.  
   </p>
 
 ### **🔐 Cybersecurity Repositories**  
