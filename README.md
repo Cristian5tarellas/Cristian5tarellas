@@ -34,6 +34,8 @@ This section showcases my growing interest in **Cybersecurity**, a fascinating f
   Some challenges focus on specific security issues, while others cover broader topics, but all provide valuable learning experiences.  
   </p>  
 
+  Wargames list: []() | 
+
 - ### **📜 [Scripts](https://github.com/Cristian5tarellas/Scripts)**  
   <p align="justify">
   This repository contains <strong>scripts</strong> I’ve created while solving Wargames and studying Cybersecurity.  
