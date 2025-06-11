@@ -24,22 +24,6 @@ Currently, I am expanding my skill set with a <strong>Master’s in Cybersecurit
 
 ## $ git remote
 
-### **📊 Data Science Repositories**  
-My passion for <strong>Science</strong> and <strong>Data Science</strong> is reflected in the following repositories:  
-
-- ### **📈 [Data Science Projects](https://github.com/Cristian5tarellas/Data_Science_Projects)**  
-  <p align="justify">
-  This repository features various <strong>Data Science projects</strong>, each with a <strong>Jupyter Notebook explaining my methodology</strong>.  
-  I detail how I approach data analysis, structure my workflow, and ensure robust and reproducible results.  
-  Additionally, I provide more <strong>refined scripts for automated and professional analysis</strong>, making the projects adaptable for <strong>real-world applications</strong>.  
-  </p>  
-
-- ### **🔬 [Science](https://github.com/Cristian5tarellas/Science)**  
-  A collection of my <strong>academic publications</strong> and research projects [📚].
-  <p align="justify">
-  My journey started in the field of <strong>Quantum Physics and Nanostructures</strong>, but during my Master’s in Complex Systems, I became deeply fascinated by <strong>Neuroscience</strong>. Throughout my Master’s and PhD, I worked in Computational Neuroscience, focusing on electrophysiological recordings and computational models of biological neuronal circuits in the Hippocampus. My research included both in vitro and in vivo electrophysiological experiments. Following my PhD, I pursued a Postdoc where I specialized in Recurrent Neural Networks (RNNs), deep learning applications, and analyzing animal behavior in decision-making tasks.  
-  </p>
-
 ### **🔐 Cybersecurity Repositories**  
 This section showcases my growing interest in **Cybersecurity**, a fascinating field where I learn something new every day.  
 
@@ -56,3 +40,19 @@ This section showcases my growing interest in **Cybersecurity**, a fascinating f
   Most scripts are written in <strong>Python and Bash</strong>, covering areas such as <strong>brute force attacks, cryptography, spoofing, and sniffing</strong>.  
   These tools help automate tasks and enhance my understanding of security concepts through practical application.  
   </p>  
+
+### **📊 Data Science Repositories**  
+My passion for <strong>Science</strong> and <strong>Data Science</strong> is reflected in the following repositories:  
+
+- ### **📈 [Data Science Projects](https://github.com/Cristian5tarellas/Data_Science_Projects)**  
+  <p align="justify">
+  This repository features various <strong>Data Science projects</strong>, each with a <strong>Jupyter Notebook explaining my methodology</strong>.  
+  I detail how I approach data analysis, structure my workflow, and ensure robust and reproducible results.  
+  Additionally, I provide more <strong>refined scripts for automated and professional analysis</strong>, making the projects adaptable for <strong>real-world applications</strong>.  
+  </p>  
+
+- ### **🔬 [Science](https://github.com/Cristian5tarellas/Science)**  
+  A collection of my <strong>academic publications</strong> and research projects [📚].
+  <p align="justify">
+  My journey started in the field of <strong>Quantum Physics and Nanostructures</strong>, but during my Master’s in Complex Systems, I became deeply fascinated by <strong>Neuroscience</strong>. Throughout my Master’s and PhD, I worked in Computational Neuroscience, focusing on electrophysiological recordings and computational models of biological neuronal circuits in the Hippocampus. My research included both in vitro and in vivo electrophysiological experiments. Following my PhD, I pursued a Postdoc where I specialized in Recurrent Neural Networks (RNNs), deep learning applications, and analyzing animal behavior in decision-making tasks.  
+  </p>
