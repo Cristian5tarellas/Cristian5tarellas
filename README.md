@@ -34,7 +34,7 @@ This section showcases my growing interest in **Cybersecurity**, a fascinating f
   Some challenges focus on specific security issues, while others cover broader topics, but all provide valuable learning experiences.  
   </p>  
 
-  Wargames list: []() | 
+  **Wargames list:** [Bandit](https://github.com/Cristian5tarellas/Wargames/tree/main/Bandit) | [Krypton](https://github.com/Cristian5tarellas/Wargames/tree/main/Krypton) | [Leviathan](https://github.com/Cristian5tarellas/Wargames/tree/main/Leviathan) | [Natas](https://github.com/Cristian5tarellas/Wargames/tree/main/Natas)
 
 - ### **📜 [Scripts](https://github.com/Cristian5tarellas/Scripts)**  
   <p align="justify">
